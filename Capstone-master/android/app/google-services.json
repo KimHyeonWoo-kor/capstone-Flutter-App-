@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "124345474997",
+    "firebase_url": "https://capstone-aa96d.firebaseio.com",
+    "project_id": "capstone-aa96d",
+    "storage_bucket": "capstone-aa96d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124345474997:android:5ceff3fb383d0c0bf383fc",
+        "android_client_info": {
+          "package_name": "com.example.capstone_agomin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124345474997-e5mblbucd26elhlrca0j98prkau6g3aq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnWifJlNjHtfGD3KuiGPHQZL6zHcHtgfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124345474997-e5mblbucd26elhlrca0j98prkau6g3aq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
